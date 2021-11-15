@@ -15,3 +15,6 @@
 - REMEMBER GOOGLE IS ALWAYS YOUR FRIEND LOL.
 
 - 🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂
+
+
+- .![LoFi Screen](https://github.com/devRaphe/sidehustle_capstone2_group3/blob/main/flutter_01.png?raw=true) .![HiFi Screen](https://github.com/devRaphe/sidehustle_capstone2_group3/blob/main/flutter_02.png?raw=true)
