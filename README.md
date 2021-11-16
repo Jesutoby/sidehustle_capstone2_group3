@@ -1,8 +1,8 @@
 # sidehustle_capstone2_group3
 
-![flutter_01](https://user-images.githubusercontent.com/72768624/141939310-ab133af5-6012-4457-8d98-5ac64396d508.png)
-![flutter_02](https://user-images.githubusercontent.com/72768624/141939343-fd6d77dd-c26d-4fad-8346-853f78e6b8db.png)
 
+<img src="https://user-images.githubusercontent.com/72768624/141939310-ab133af5-6012-4457-8d98-5ac64396d508.png" width=50% height=50%> 
+<img src="https://user-images.githubusercontent.com/72768624/141939343-fd6d77dd-c26d-4fad-8346-853f78e6b8db.png" width=50% height=50%>
 
 ## To Get Started
 
