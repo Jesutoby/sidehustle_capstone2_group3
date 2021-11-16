@@ -1,9 +1,8 @@
 # sidehustle_capstone2_group3
 
-![Group_6_UI_Design](https://github.com/IruomaJennifer/group_6_login_page_ui/blob/master/images/Group_6_UI_design.PNG)
+![flutter_01](https://user-images.githubusercontent.com/72768624/141939310-ab133af5-6012-4457-8d98-5ac64396d508.png)
+![flutter_02](https://user-images.githubusercontent.com/72768624/141939343-fd6d77dd-c26d-4fad-8346-853f78e6b8db.png)
 
-![LoFi Screen](https://github.com/devRaphe/sidehustle_capstone2_group3/blob/main/flutter_01.png?raw=true) 
-![HiFi Screen](https://github.com/devRaphe/sidehustle_capstone2_group3/blob/main/flutter_02.png?raw=true)
 
 ## To Get Started
 
