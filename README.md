@@ -1,4 +1,5 @@
-# sidehustle_capstone2_group3
+# SIDEHUSTLE CAPSTONE 2 GROUP 3
+:------:
 
 
 
