@@ -1,7 +1,8 @@
 # sidehustle_capstone2_group3
 
+![Group_6_UI_Design](https://github.com/IruomaJennifer/group_6_login_page_ui/blob/master/images/Group_6_UI_design.PNG)
 
-![LoFi Screen](https://github.com/devRaphe/sidehustle_capstone2_group3/blob/main/flutter_01.png?raw=true | width = 100) 
+![LoFi Screen](https://github.com/devRaphe/sidehustle_capstone2_group3/blob/main/flutter_01.png?raw=true) 
 ![HiFi Screen](https://github.com/devRaphe/sidehustle_capstone2_group3/blob/main/flutter_02.png?raw=true)
 
 ## To Get Started
