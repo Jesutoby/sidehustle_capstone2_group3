@@ -22,5 +22,6 @@ LoFi Screen             |  HiFi Screen
 
 - 🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂🥂
 
-
-- ![Contributors](https://docs.google.com/spreadsheets/d/1YhzvVsYIKUMAcwrmP_f0eIfA2y6h7BGppz6lFrdJdaU/edit?usp=sharing)
+  Contributors
+  :-----------------:
+   https://docs.google.com/spreadsheets/d/1YhzvVsYIKUMAcwrmP_f0eIfA2y6h7BGppz6lFrdJdaU/edit?usp=sharing
